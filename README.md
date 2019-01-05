@@ -1,0 +1,2 @@
+# pupilprocessing
+This document presents an exemplar for how to process pupillometric data collected by a Tobii machine. Processed data have been published in Eye Tracking for the Chemistry Education Researcher (DOI:10.1021/bk-2018-1292.ch008), and submitted for journal publication as of January 2019. The following workﬂow has been developed in RStudio, using packages from the Tidyverse, among others.
